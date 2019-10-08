@@ -1,0 +1,1 @@
+Simple script for replace a IP server string in Zabbix agent configuration file.
