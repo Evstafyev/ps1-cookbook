@@ -1,0 +1,1 @@
+The script gets AD usernames and accountnames from specific OU.
