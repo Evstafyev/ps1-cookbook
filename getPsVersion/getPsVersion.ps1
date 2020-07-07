@@ -1,0 +1,1 @@
+﻿return $PSVersionTable.PSVersion.Major
